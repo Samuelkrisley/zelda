@@ -1,0 +1,21 @@
+
+body{
+    background-image:url(zeldaparede.webp);
+    
+    width:auto
+}
+
+main{
+    
+    background-color: #f1f1f1;
+    margin-left: 100px;
+    margin-right: 50px;
+  
+}
+td{
+    text-align: justify;
+    justify-content: center; 
+    color: black;
+    font-style: arial;
+    list-style: armenian;
+}
